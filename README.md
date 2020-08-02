@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/david-maceachern-35943440/) & [🐦](https://mobile.twitter.com/maceacherndjh)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Successfully grown 🥑
+
+Below I have pinned contributions, and things I have worked on or with.
