@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m open to opportunities, so reach out if you have a systems software role in EMEA & Remote[Linkedin](https://www.linkedin.com/in/david-maceachern-35943440/)
+- 🔭 I’m open to opportunities, so [reach out](https://www.linkedin.com/in/david-maceachern-35943440/) if you have a systems software role in EMEA & Remote.
 - 🌱 I’m currently learning the Rust Language, to develop a deeper understanding of how our machines work.
 - 👯 I’m looking to collaborate on opensource Rust projects.
 - 💬 Ask me about Site Reliability Engineering.
