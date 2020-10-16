@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Successfully grown 🥑
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot,Living in France 🇫🇷 
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot, living in France 🇫🇷 
 
 ## Technology
 
