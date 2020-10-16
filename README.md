@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 ## Rules
 
 - Be kind.
-- If You Want to Go Fast, Go Alone. If You Want to Go Far, Go Together
+- Failure is normal.
+- People first.
+- If You Want to Go Fast, Go Alone. If You Want to Go Far, Go Together.
 
 ## About me
 
@@ -22,11 +24,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Successfully grown 🥑
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot,Living in France 🇫🇷 
 
-## Technologies
+## Technology
 
-<a href="https://www.rust-lang.org/"><img align="left" alt="Rust Language"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg"/></a>
+<br />
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/></a>
+<a href="https://www.rust-lang.org/"><img align="left" alt="Rust Language"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg"/></a>
 <a href="https://nixos.org/"><img align="left" alt="JavaScript"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nixos.svg"/></a>
+<a href="https://www.terraform.io/"><img align="left" alt="Terraform"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg"/></a>
+<a href="https://aws.amazon.com/"><img align="left" alt="AWS"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"/></a>
+
+
+
+## Contact
 
 <br />
 
