@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.terraform.io/"><img align="left" alt="Terraform"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg"/></a>
 <a href="https://aws.amazon.com/"><img align="left" alt="AWS"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"/></a>
 
-
+<br />
 
 ## Contact
 
