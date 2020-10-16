@@ -6,12 +6,19 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m open to opportunities, so [reach out](https://www.linkedin.com/in/david-maceachern-35943440/) if you have a systems software role in EMEA & Remote.
-- 🌱 I’m currently learning the Rust Language, to develop a deeper understanding of how our machines work.
-- 👯 I’m looking to collaborate on opensource Rust projects.
-- 💬 Ask me about Site Reliability Engineering.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/david-maceachern-35943440/) & [🐦](https://mobile.twitter.com/maceacherndjh)
+
+# I'm looking for work!
+
+🔭 If you have a systems software role in EMEA & Remote please contact me!
+
+# About me
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Successfully grown 🥑
+- 🇫🇷 Living in France 
 
-Below I have pinned contributions, and things I have worked on or with.
+
+<br />
+
+<a href="https://mobile.twitter.com/maceacherndjh"><img align="left" alt="David's Twitter"   height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/davidmaceachern/"><img align="left" alt="David's Linkedin"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
