@@ -11,12 +11,22 @@ Here are some ideas to get you started:
 
 🔭 If you have a systems software role in EMEA & Remote please contact me!
 
-# About me
+## Rules
+
+- Be kind.
+- If You Want to Go Fast, Go Alone. If You Want to Go Far, Go Together
+
+## About me
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Successfully grown 🥑
-- 🇫🇷 Living in France 
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot,Living in France 🇫🇷 
 
+## Technologies
+
+<a href="https://www.rust-lang.org/"><img align="left" alt="Rust Language"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg"/></a>
+<a href="https://www.javascript.com/"><img align="left" alt="JavaScript"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/></a>
+<a href="https://nixos.org/"><img align="left" alt="JavaScript"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nixos.svg"/></a>
 
 <br />
 
