@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 - Be kind.
 - Be curious.
+- Life is short.
 - Failure is normal.
 - People first.
 - If You Want to Go Fast, Go Alone. If You Want to Go Far, Go Together.
