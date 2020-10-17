@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 ## Rules
 
 - Be kind.
+- Be curious.
 - Failure is normal.
 - People first.
 - If You Want to Go Fast, Go Alone. If You Want to Go Far, Go Together.
+
 
 ## About me
 
