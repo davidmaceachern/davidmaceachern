@@ -1,12 +1,3 @@
-### Hi there 👋
-
-<!--
-**davidmaceachern/davidmaceachern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
 # I'm looking for work!
 
 🔭 If you have a systems software role in EMEA & Remote please contact me!
@@ -26,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Successfully grown 🥑
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot, living in France 🇫🇷 
+- One day hope to be an alpine guide.
 
 ## Technology
 
