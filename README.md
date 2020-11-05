@@ -19,7 +19,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Successfully grown 🥑
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot, living in France 🇫🇷 
-- One day hope to be an alpine guide.
+- 🧗 One day hope to be an alpine guide.
 
 ## Past and Current Technology Interests
 
