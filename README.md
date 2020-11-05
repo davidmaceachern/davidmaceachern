@@ -1,11 +1,10 @@
 # I'm looking for my next career step.
 
 🔭 If you have a systems software role in EMEA && Remote please contact me!
-
-<br />
-
 <a href="https://mobile.twitter.com/maceacherndjh"><img align="left" alt="David's Twitter"   height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/davidmaceachern/"><img align="left" alt="David's Linkedin"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+
+<br />
 
 ## Blog posts
 * 2020-09-09: [Learning Rust: Collecting Data from an API](https://davidmaceachern.com/posts/collecting-data-from-an-api)
