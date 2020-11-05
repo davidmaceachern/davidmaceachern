@@ -2,6 +2,9 @@
 
 🔭 If you have a systems software role in EMEA & Remote please contact me!
 
+## Blog posts
+* 2020-09-09: [Collecting Data from an API using Rust](https://davidmaceachern.com/posts/collecting-data-from-an-api)
+
 ## Rules
 
 - Be kind.
@@ -11,7 +14,6 @@
 - People first.
 - If You Want to Go Fast, Go Alone. If You Want to Go Far, Go Together.
 
-
 ## About me
 
 - 😄 Pronouns: he/him
@@ -19,7 +21,7 @@
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot, living in France 🇫🇷 
 - One day hope to be an alpine guide.
 
-## Technology
+## Past and Current Technology Interests
 
 <br />
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/></a>
