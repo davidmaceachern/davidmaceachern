@@ -11,6 +11,7 @@
 <br />
 
 ## Blog posts
+* 2020-11-07: [Using Github Container Registry](https://dev.to/davidmaceachern/using-github-container-registry-15m0)
 * 2020-09-09: [Learning Rust: Collecting Data from an API](https://davidmaceachern.com/posts/collecting-data-from-an-api)
 
 ## Rules
