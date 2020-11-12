@@ -7,6 +7,7 @@
 <br />
 
 ## Writing
+* 2020-11-12: [How to fix Github Docker Containers Built with Actions](https://dev.to/davidmaceachern/how-to-fix-github-docker-containers-built-with-actions-162k)
 * 2020-11-07: [Using Github Container Registry](https://dev.to/davidmaceachern/using-github-container-registry-15m0)
 * 2020-09-09: [Learning Rust: Collecting Data from an API](https://davidmaceachern.com/posts/collecting-data-from-an-api)
 
