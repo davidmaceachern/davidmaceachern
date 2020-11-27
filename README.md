@@ -14,19 +14,7 @@
 
 ## Rules
 
-- Be kind.
-- Be curious.
-- Life is short.
-- Failure is normal.
-- People first.
-- If You Want to Go Fast, Go Alone. If You Want to Go Far, Go Together.
-
-## About me
-
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Successfully grown 🥑
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scot, living in France 🇫🇷 
-- 🧗 One day hope to be an alpine guide.
+Be kind, be curious, life is short, failure is normal, people first, if you want to go fast, go alone, if you want to go far, go together.
 
 ## Past and Current Technology Interests
 
