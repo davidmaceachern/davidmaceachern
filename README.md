@@ -6,15 +6,13 @@
 
 <br />
 
+Be kind... be curious... life is short... and failure is normal.. let's put people first... and don't forget if you want to go fast, go alone, if you want to go far, go together.
+
 ## Writing
 * 2020-11-24: [How to query JSON data in the terminal](https://dev.to/davidmaceachern/how-to-query-json-data-in-the-terminal-3gin)
 * 2020-11-12: [How to fix Github Docker Containers Built with Actions](https://dev.to/davidmaceachern/how-to-fix-github-docker-containers-built-with-actions-162k)
 * 2020-11-07: [Using Github Container Registry](https://dev.to/davidmaceachern/using-github-container-registry-15m0)
 * 2020-09-09: [Learning Rust: Collecting Data from an API](https://davidmaceachern.com/posts/collecting-data-from-an-api)
-
-## Rules
-
-Be kind | be curious | life is short | failure is normal | people first | if you want to go fast, go alone, if you want to go far, go together.
 
 ## Past and Current Technology Interests
 
