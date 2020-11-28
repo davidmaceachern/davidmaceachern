@@ -14,7 +14,7 @@
 
 ## Rules
 
-Be kind, be curious, life is short, failure is normal, people first, if you want to go fast, go alone, if you want to go far, go together.
+Be kind | be curious | life is short | failure is normal | people first | if you want to go fast, go alone, if you want to go far, go together.
 
 ## Past and Current Technology Interests
 
