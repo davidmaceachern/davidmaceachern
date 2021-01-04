@@ -11,14 +11,3 @@
 * 2020-11-12: [How to fix Github Docker Containers Built with Actions](https://dev.to/davidmaceachern/how-to-fix-github-docker-containers-built-with-actions-162k)
 * 2020-11-07: [Using Github Container Registry](https://dev.to/davidmaceachern/using-github-container-registry-15m0)
 * 2020-09-09: [Learning Rust: Collecting Data from an API](https://davidmaceachern.com/posts/collecting-data-from-an-api)
-
-## Past and Current Technology Interests
-
-<br />
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/></a>
-<a href="https://www.rust-lang.org/"><img align="left" alt="Rust Language"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg"/></a>
-<a href="https://nixos.org/"><img align="left" alt="JavaScript"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nixos.svg"/></a>
-<a href="https://www.terraform.io/"><img align="left" alt="Terraform"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg"/></a>
-<a href="https://aws.amazon.com/"><img align="left" alt="AWS"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"/></a>
-
-<br />
