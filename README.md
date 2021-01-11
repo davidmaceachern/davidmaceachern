@@ -1,11 +1,6 @@
-<br />
-
-<a href="https://www.linkedin.com/in/davidmaceachern/"><img align="left" alt="David's Linkedin"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://dev.to/davidmaceachern"><img align="left" alt="David's Dev.to"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/></a>
-
-<br />
-
 ## Writing
+
+* 2020-12-11: [It's time to unleash your social potential ](https://dev.to/davidmaceachern/it-s-time-to-unleash-your-social-potential-17jg)
 * 2020-12-11: [How to generate Type Definitions for Distribution on NPM](https://dev.to/davidmaceachern/how-to-generate-type-definitions-for-distribution-on-npm-31mj)
 * 2020-11-24: [How to query JSON data in the terminal](https://dev.to/davidmaceachern/how-to-query-json-data-in-the-terminal-3gin)
 * 2020-11-12: [How to fix Github Docker Containers Built with Actions](https://dev.to/davidmaceachern/how-to-fix-github-docker-containers-built-with-actions-162k)
