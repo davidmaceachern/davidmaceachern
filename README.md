@@ -1,6 +1,6 @@
 ## Writing
 
-* 2020-12-11: [It's time to unleash your social potential ](https://dev.to/davidmaceachern/it-s-time-to-unleash-your-social-potential-17jg)
+* 2021-01-11: [It's time to unleash your social potential ](https://dev.to/davidmaceachern/it-s-time-to-unleash-your-social-potential-17jg)
 * 2020-12-11: [How to generate Type Definitions for Distribution on NPM](https://dev.to/davidmaceachern/how-to-generate-type-definitions-for-distribution-on-npm-31mj)
 * 2020-11-24: [How to query JSON data in the terminal](https://dev.to/davidmaceachern/how-to-query-json-data-in-the-terminal-3gin)
 * 2020-11-12: [How to fix Github Docker Containers Built with Actions](https://dev.to/davidmaceachern/how-to-fix-github-docker-containers-built-with-actions-162k)
