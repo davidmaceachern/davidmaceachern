@@ -1,5 +1,8 @@
-## Writing
+## Working on 👨‍💻🧭
 
+I'm currently [exploring](https://github.com/davidmaceachern/spike-rust-dynamo) Rust on AWS and how it might be used instead of the Node.js runtime.
+
+## Writing ✍🏻
 
 * 2021-01-15: [How understanding software versions can help you get unstuck](https://dev.to/davidmaceachern/how-understanding-sofware-versions-can-help-you-get-unstuck-33k7)
 * 2021-01-11: [It's time to unleash your social potential ](https://dev.to/davidmaceachern/it-s-time-to-unleash-your-social-potential-17jg)
