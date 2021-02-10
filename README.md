@@ -4,6 +4,7 @@ I'm currently [exploring](https://github.com/davidmaceachern/spike-rust-dynamo) 
 
 ## Writing ✍🏻
 
+* 2021-02-10: [How do you work with someone else's fork?](https://dev.to/davidmaceachern/how-do-you-work-with-someone-else-s-fork-5fd7)
 * 2021-01-15: [How understanding software versions can help you get unstuck](https://dev.to/davidmaceachern/how-understanding-sofware-versions-can-help-you-get-unstuck-33k7)
 * 2021-01-11: [It's time to unleash your social potential ](https://dev.to/davidmaceachern/it-s-time-to-unleash-your-social-potential-17jg)
 * 2020-12-11: [How to generate Type Definitions for Distribution on NPM](https://dev.to/davidmaceachern/how-to-generate-type-definitions-for-distribution-on-npm-31mj)
