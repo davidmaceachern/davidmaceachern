@@ -1,6 +1,8 @@
 ## Working on 👨‍💻🧭
 
-I'm currently [exploring](https://github.com/davidmaceachern/spike-rust-dynamo) Rust on AWS and how it might be used instead of the Node.js runtime.
+I'm currently setting up a development environment [here](https://github.com/davidmaceachern/dev)
+
+I was [exploring](https://github.com/davidmaceachern/spike-rust-dynamo) Rust on AWS and how it might be used instead of the Node.js runtime.
 
 ## Writing ✍🏻
 
